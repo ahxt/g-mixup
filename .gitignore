@@ -1,0 +1,5 @@
+*.pyc
+__pycache__
+.vscode
+src/__pycache__
+REDDIT-BINARY
